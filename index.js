@@ -1,6 +1,6 @@
 // console.log("object");
 
-const button = document.querySelector("button");
+// const button = document.querySelector("button");
 
 function getRandomImages() {
   const img = Math.random() * 1000;
@@ -9,10 +9,12 @@ function getRandomImages() {
   ).src = `https://picsum.photos/1024/500?${img}`;
 }
 
-button.addEventListener('click', ()=>{
-    getRandomImages()
-})
+// button.addEventListener('click', ()=>{
+//     getRandomImages()
+// })
 
-// setInterval(() => {
-//   getRandomImages();
-// }, 3000);
+setInterval(() => {
+  getRandomImages();
+}, 3000);
+
+
