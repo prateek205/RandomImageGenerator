@@ -118,7 +118,7 @@ button.addEventListener('click', ()=>{
 })
 ```
 ## 🔧 Setup Instruction
-#### 1. Clone Repository
+#### Clone Repository:
 ```
 git clone https://github.com/prateek205/RandomImageGenerator.git
 cd RandomImageGenerator
