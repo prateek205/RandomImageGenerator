@@ -18,7 +18,7 @@ This is simple web project which generate random images by using `onClick` metho
 ![Demo_Screenshot](https://github.com/prateek205/RandomImageGenerator/blob/dd17882fb253e9de9aa615a915e1930763d56acf/asset/screenshot/randomImagesGenerator_02.png)
 
 ## 📽️ Demo
-#### Live Demo: https://github.com/user-attachments/assets/62f7d59c-22db-4c90-830b-8bbb27955f25
+#### Live Demo: [https://github.com/user-attachments/assets/62f7d59c-22db-4c90-830b-8bbb27955f25](https://random-image-generator-six.vercel.app/)
 
 ## 🧠 How it Works
 The app uses JavaScript’s `setInterval` method to change the image source (`src`) of an `img` tag every few seconds. The image URLs can be from a predefined array or an external API (like Unsplash or Picsum).
